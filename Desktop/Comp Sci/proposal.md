@@ -1,6 +1,6 @@
 # Proposal
 
-RocketRider Jetstream Obstacle Codger
+RocketRider Jetstream Obstacle Dodger
 
 TODO
 
