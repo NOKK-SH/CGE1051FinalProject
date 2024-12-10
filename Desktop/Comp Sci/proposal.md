@@ -2,7 +2,6 @@
 
 RocketRider Jetstream Obstacle Dodger
 
-TODO
 
 The project is going to be based on the game jetpack joyride which I played as a child.
 
